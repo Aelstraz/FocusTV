@@ -9,4 +9,4 @@ Simply download the latest release [here](https://github.com/Jakegwizdak/FocusTV
 ### USAGE:
 Press the configurable keybind combination to toggle between focus on or off. In order to access the settings menu, open the system tray menu at the bottom right of the taskbar, right click the FocusTV icon and select 'Settings'.
 
-### Twitter: [@jakegwizdak](https://twitter.com/JakeGwizdak)
+### Twitter: [@aelstraz](https://twitter.com/Aelstraz)
